@@ -203,560 +203,380 @@
         "text_gradient": ""
       }
     },
-    "image_link_blocks_Y7z63C": {
-      "type": "image-link-blocks",
+    "rich_text_HfzthM": {
+      "type": "rich-text",
       "blocks": {
-        "item_9tXVTD": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/20250426_152731.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_3jm9Ta": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/20250426_152809.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_WzxX38": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/20250426_152821.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_EJGcaF": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/20250521_043329.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item_9tXVTD",
-        "item_3jm9Ta",
-        "item_WzxX38",
-        "item_EJGcaF"
-      ],
-      "name": "Image link blocks",
-      "settings": {
-        "full_width": false,
-        "block_size": "large",
-        "subheading": "",
-        "title": "PROTECT, DISPLAY AND ORGANIZE",
-        "content": "<p>Gone are the days of leaving your dabber on the edge of the table.</p><p>Its time to upgrade</p><p>Upgrading means <strong>NO MORE...</strong></p><p>❌ Dabbers falling on the floor</p><p>❌ Carb Caps rolling around</p><p>❌ Cotton Swabs... everywhere</p><p>❌ Messy setups that don't spark joy</p>",
-        "link_url": "shopify://collections/all",
-        "link_text": "",
-        "background": "#ffda64",
-        "background_gradient": "linear-gradient(0deg, rgba(255, 255, 255, 1) 37%, rgba(255, 218, 100, 1) 100%)",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "collection-list": {
-      "type": "collection-list",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection-1",
-        "collection-2",
-        "collection-3"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_collections": false,
-        "collections_per_row_mobile": "1",
-        "collections_per_row": 3,
-        "show_progress_bar": false,
-        "subheading": "",
-        "title": "Collection list",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Featured collection",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "impact-text": {
-      "type": "impact-text",
-      "blocks": {
-        "1664424181b38582d5-0": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "1664424181b38582d5-0"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "1664424230c4756b0e-1": {
+        "heading_CDN8Dn": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
+            "text": "PROTECT, DISPLAY AND ORGANIZE YOUR DAB ESSENTIALS",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
           }
         },
-        "1664424230c4756b0e-2": {
+        "richtext_pXrrVe": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Gone are the days of leaving your dabber on the edge of the table.</p><p>Its time to upgrade</p><p>Upgrading means <strong>NO MORE...</strong></p><p>❌ Dabbers falling on the floor</p><p>❌ Carb Caps rolling around</p><p>❌ Cotton Swabs... everywhere</p><p>❌ Messy setups that don't spark joy</p>"
+          }
+        },
+        "image_QgUJ8J": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20250426_152731.jpg",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "button_JKmwby": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "YES! I WANT ZERO MESS",
+            "url": "shopify://collections/all",
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "richtext_eakKc3": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>🔒 30-Day Money Back Gaurantee</p>"
           }
         }
       },
       "block_order": [
-        "1664424230c4756b0e-0",
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
+        "heading_CDN8Dn",
+        "richtext_pXrrVe",
+        "image_QgUJ8J",
+        "button_JKmwby",
+        "richtext_eakKc3"
       ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
-    "media-grid": {
-      "type": "media-grid",
-      "blocks": {
-        "item-1": {
-          "type": "image",
-          "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item-2": {
-          "type": "image",
-          "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item-3": {
-          "type": "image",
-          "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "29246d34-c6e0-4373-84f6-b15e57736a00": {
-          "type": "image",
-          "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item-1",
-        "item-2",
-        "item-3",
-        "29246d34-c6e0-4373-84f6-b15e57736a00"
-      ],
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
-      }
-    },
-    "before-after-image": {
-      "type": "before-after-image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "expand_image": false,
+        "content_width": "small",
         "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
+        "background": "#ffda64",
         "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "text_color": ""
       }
     },
-    "press": {
-      "type": "press",
+    "rich_text_nHNhGW": {
+      "type": "rich-text",
       "blocks": {
-        "16644243327ba53d2a-0": {
-          "type": "quote",
+        "subheading_7Tn3KB": {
+          "type": "subheading",
           "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Share info about what your customers say about your products.",
-            "show_rating": false,
-            "rating": 4
+            "text": "\"THE PERFECT DAB STATION DOESN'T EXI—\""
           }
         },
-        "16644243327ba53d2a-1": {
-          "type": "quote",
+        "heading_RK9pUk": {
+          "type": "heading",
           "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
-            "show_rating": false,
-            "rating": 4
+            "text": "TURN CHAOS INTO CALM WITH DABDOCK!",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "icon_RXQ9JV": {
+          "type": "icon",
+          "settings": {
+            "icon": "picto-stop",
+            "icon_width": 24,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": ""
+          }
+        },
+        "heading_xndFzz": {
+          "type": "heading",
+          "settings": {
+            "text": "A MESSY SESH KILLS THE VIBE",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_D3r3j6": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>The perfect <em>sesh</em> comes down to the vibe of your environment...</p><p>And <strong>NOTHING</strong> kills the mood like a disorganized, scattered setup.</p><p>You know the pain of scouring the place for your missing dab tool as your banger cools down just to find it on the floor covered in hair and lint?</p><p>Broken carb caps? Lets be honest... <strong>NO ONE</strong> has the time for that.</p>"
+          }
+        },
+        "image_fyfTGh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20250130_020605.jpg",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "icon_mrHAEx": {
+          "type": "icon",
+          "settings": {
+            "icon": "picto-validation",
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": ""
+          }
+        },
+        "heading_Rnyan8": {
+          "type": "heading",
+          "settings": {
+            "text": "A TIDY SESH ELEVATES YOUR EXPERIENCE",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_KReAL6": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>With our premium dab station, everything you need is right where you left it. Our dab organizers keep your dab tools and accessories perfectly organized, so you're always ready for that <em>perfect</em> dab<br/></p><p><strong>No more searching. No more broken tools.</strong></p><p>Just seamless, stress-free enjoyment, every single time with our ultimate storage solution.</p>"
+          }
+        },
+        "image_UcFFhm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20250426_152821.jpg",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "button_N9X6my": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "ELEVATE MY EXPERIENCE",
+            "url": "shopify://collections/all",
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "richtext_HxchhY": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>🔒 30-Day Money Back Gaurantee</p>"
           }
         }
       },
       "block_order": [
-        "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1"
+        "subheading_7Tn3KB",
+        "heading_RK9pUk",
+        "icon_RXQ9JV",
+        "heading_xndFzz",
+        "richtext_D3r3j6",
+        "image_fyfTGh",
+        "icon_mrHAEx",
+        "heading_Rnyan8",
+        "richtext_KReAL6",
+        "image_UcFFhm",
+        "button_N9X6my",
+        "richtext_HxchhY"
       ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "content_size": "medium",
-        "background": "",
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
+        "text_color": ""
       }
     },
-    "hot-spots": {
-      "type": "hot-spots",
+    "scrolling_text_4cnPKY": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "THE MOST POPULAR DAB ORGANIZER SINCE 2020",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#ffda64ff",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "text_with_icons_Qnwpiy": {
+      "type": "text-with-icons",
       "blocks": {
-        "1664424434f5b7d0e0-0": {
+        "item_UUnMxX": {
           "type": "item",
           "settings": {
-            "horizontal_position": 24,
-            "vertical_position": 70,
-            "horizontal_position_mobile": 24,
-            "vertical_position_mobile": 70,
+            "icon": "picto-star",
+            "mobile_icon_width": 24,
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "PREMIUM BUILD QUALITY",
+            "content": "<p>Dabdock products are made with premium quality ASA polymer, hand-finished with our proprietary vapor-smoothing process to ensure a sleek, smooth look</p>"
           }
         },
-        "1664424434f5b7d0e0-1": {
+        "item_6bjY3G": {
           "type": "item",
           "settings": {
-            "horizontal_position": 62,
-            "vertical_position": 14,
-            "horizontal_position_mobile": 62,
-            "vertical_position_mobile": 14,
+            "icon": "picto-like",
+            "mobile_icon_width": 24,
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "HAND-POURED SILICONE INSERTS",
+            "content": "<p>Our silicone rubber inserts are designed to help protect your carb caps and bangers by absorbing heat, and providing a stable spot to place your delicate tools</p>"
           }
         },
-        "1664424434f5b7d0e0-2": {
+        "item_PY6hD8": {
           "type": "item",
           "settings": {
-            "horizontal_position": 83,
-            "vertical_position": 75,
-            "horizontal_position_mobile": 83,
-            "vertical_position_mobile": 75,
+            "icon": "picto-stop",
+            "mobile_icon_width": 24,
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "NEVER MISPLACE A DAB TOOL AGAIN",
+            "content": "<p>From delicate carb caps and bangers, to sticky dab tools, and a bundle of cotton swabs, Dabdock has a spot for it all. No more broken carb caps, no more dabbers on the floor</p>"
+          }
+        },
+        "item_atxBUf": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-gift",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "THE PERFECT GIFT",
+            "content": "<p>Fun Fact: 30% of our customers add an extra Dabdock to give as a gift. Watch your loved one's face light up when you hand them their own stash box for the special occasion</p>"
           }
         }
       },
       "block_order": [
-        "1664424434f5b7d0e0-0",
-        "1664424434f5b7d0e0-1",
-        "1664424434f5b7d0e0-2"
+        "item_UUnMxX",
+        "item_6bjY3G",
+        "item_PY6hD8",
+        "item_atxBUf"
       ],
+      "name": "Text with icons",
       "settings": {
         "full_width": true,
+        "stack_on_mobile": true,
         "title": "",
-        "content": "",
-        "button_text": "",
-        "button_url": "",
-        "desktop_text_position": "place-self-start text-start",
-        "image_background": "",
-        "image_background_gradient": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "overlay_text_color": "#ffffff",
-        "overlay_button_background": "",
-        "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#ffffff",
-        "hot_spot_dot_text_color": "#000000",
-        "hot_spot_content_background": "#ffffff",
-        "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
+        "heading_tag": "h2",
+        "text_alignment": "start",
+        "icon_spacing": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
-    "multiple-images-with-text": {
-      "type": "multiple-images-with-text",
+    "rich_text_TGkMAJ": {
+      "type": "rich-text",
       "blocks": {
-        "1664424486a2b084ab-0": {
-          "type": "item",
+        "button_6Lm3dM": {
+          "type": "button",
           "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
+            "style": "fill",
+            "size": "xl",
+            "text": "SHOP DABDOCK",
+            "url": "shopify://collections/all",
+            "background": "",
+            "text_color": ""
           }
         },
-        "1664424486a2b084ab-1": {
-          "type": "item",
+        "richtext_MPteYP": {
+          "type": "richtext",
           "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
+            "content": "<p>🔒 30-Day Money Back Gaurantee</p>"
           }
         }
       },
       "block_order": [
-        "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
+        "button_6Lm3dM",
+        "richtext_MPteYP"
       ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "images_layout": "scattered",
-        "collage_images_alignment": "middle",
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "text_color": ""
       }
     },
-    "featured-product": {
+    "scrolling_text_kUyhQy": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "LIFETIME DURABILITY | ORIGINAL DESIGN | HANDMADE IN THE USA | PROTECT, DISPLAY AND ORGANIZE YOUR DAB ESSENTIALS",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#ffda64ff",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "featured_product_UPTiLC": {
       "type": "featured-product",
       "blocks": {
-        "vendor": {
+        "vendor_MtCtCr": {
           "type": "vendor",
+          "disabled": true,
           "settings": {}
         },
-        "title": {
+        "judge_me_reviews_preview_badge_homepage_m63EtG": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "dabdock-tray-premium-dab-station-organizer"
+          }
+        },
+        "title_jz4GB4": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
           }
         },
-        "badges": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price": {
+        "price_md6X4A": {
           "type": "price",
           "settings": {
             "show_taxes_notice": false
           }
         },
-        "rating": {
+        "badges_9bpG6y": {
+          "type": "badges",
+          "settings": {}
+        },
+        "rating_dYjDi3": {
           "type": "rating",
+          "disabled": true,
           "settings": {
             "show_empty": false
           }
         },
-        "separator": {
+        "separator_PmFyX7": {
           "type": "separator",
           "settings": {}
         },
-        "description": {
+        "description_nxikGE": {
           "type": "description",
           "settings": {
             "icon": "none",
@@ -764,23 +584,26 @@
             "collapse_content": false
           }
         },
-        "variant-picker": {
+        "variant_picker_MUjkaV": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
             "selector_style": "block",
-            "swatch_selector_style": "color",
+            "swatch_selector_style": "swatch",
             "variant_image_options": "",
             "size_chart_page": ""
           }
         },
-        "quantity-selector": {
+        "quantity_selector_y69TdB": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {}
         },
-        "buy-buttons": {
+        "buy_buttons_q87hkw": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
@@ -789,88 +612,57 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "pickup_availability_DdqMrK": {
+          "type": "pickup_availability",
+          "disabled": true,
+          "settings": {}
+        },
+        "button_NaLmwW": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://products/dabdock-tray-premium-dab-station-organizer",
+            "text": "SHOP DABDOCK",
+            "size": "xl",
+            "style": "fill",
+            "stretch": true,
+            "background": "",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
-        "vendor",
-        "title",
-        "badges",
-        "price",
-        "rating",
-        "separator",
-        "description",
-        "variant-picker",
-        "quantity-selector",
-        "buy-buttons"
+        "vendor_MtCtCr",
+        "judge_me_reviews_preview_badge_homepage_m63EtG",
+        "title_jz4GB4",
+        "price_md6X4A",
+        "badges_9bpG6y",
+        "rating_dYjDi3",
+        "separator_PmFyX7",
+        "description_nxikGE",
+        "variant_picker_MUjkaV",
+        "quantity_selector_y69TdB",
+        "buy_buttons_q87hkw",
+        "pickup_availability_DdqMrK",
+        "button_NaLmwW"
       ],
+      "name": "Featured product",
       "settings": {
-        "full_width": false,
-        "product": "",
+        "full_width": true,
+        "product": "dabdock-tray-premium-dab-station-organizer",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_media_size": "contained",
+        "mobile_carousel_control": "free_scroll",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
-        "enable_image_zoom": true,
+        "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#ffffff",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "faq": {
-      "type": "faq",
-      "blocks": {
-        "166442457738b23caf-0": {
-          "type": "item",
-          "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
-          }
-        },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
-          }
-        },
-        "166442457738b23caf-2": {
-          "type": "item",
-          "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
-      ],
-      "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
-        "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
       }
     }
   },
@@ -878,17 +670,12 @@
     "image_with_text_overlay_nVgm83",
     "testimonials_zEYP9g",
     "scrolling-text",
-    "image_link_blocks_Y7z63C",
-    "collection-list",
-    "featured-collection",
-    "impact-text",
-    "image-with-text-overlay",
-    "media-grid",
-    "before-after-image",
-    "press",
-    "hot-spots",
-    "multiple-images-with-text",
-    "featured-product",
-    "faq"
+    "rich_text_HfzthM",
+    "rich_text_nHNhGW",
+    "scrolling_text_4cnPKY",
+    "text_with_icons_Qnwpiy",
+    "rich_text_TGkMAJ",
+    "scrolling_text_kUyhQy",
+    "featured_product_UPTiLC"
   ]
 }
