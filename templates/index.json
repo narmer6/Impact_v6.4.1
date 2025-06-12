@@ -258,7 +258,7 @@
       "name": "Rich text",
       "settings": {
         "full_width": true,
-        "content_width": "small",
+        "content_width": "large",
         "text_position": "center",
         "background": "#ffe593",
         "background_gradient": "",
@@ -477,7 +477,7 @@
         "stack_on_mobile": true,
         "title": "",
         "heading_tag": "h2",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "icon_spacing": "small",
         "background": "",
         "background_gradient": "",
