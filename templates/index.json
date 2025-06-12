@@ -535,12 +535,6 @@
           "disabled": true,
           "settings": {}
         },
-        "judge_me_reviews_preview_badge_homepage_m63EtG": {
-          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": "dabdock-tray-premium-dab-station-organizer"
-          }
-        },
         "title_jz4GB4": {
           "type": "title",
           "settings": {
@@ -559,9 +553,8 @@
         },
         "rating_dYjDi3": {
           "type": "rating",
-          "disabled": true,
           "settings": {
-            "show_empty": false
+            "show_empty": true
           }
         },
         "separator_PmFyX7": {
@@ -631,7 +624,6 @@
       },
       "block_order": [
         "vendor_MtCtCr",
-        "judge_me_reviews_preview_badge_homepage_m63EtG",
         "title_jz4GB4",
         "price_md6X4A",
         "badges_9bpG6y",
