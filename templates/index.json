@@ -76,7 +76,7 @@
         "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 50
+        "overlay_opacity": 40
       }
     },
     "testimonials_zEYP9g": {
@@ -535,22 +535,6 @@
         "text_gradient": ""
       }
     },
-    "scrolling_text_ynTGkL": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "LIFETIME DURABILITY | ORIGINAL DESIGN | HANDMADE IN THE USA | PROTECT, DISPLAY AND ORGANIZE YOUR DAB ESSENTIALS",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "#ffe593",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "featured_product_UPTiLC": {
       "type": "featured-product",
       "blocks": {
@@ -978,6 +962,22 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "scrolling_text_ynTGkL": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "LIFETIME DURABILITY | ORIGINAL DESIGN | HANDMADE IN THE USA | PROTECT, DISPLAY AND ORGANIZE YOUR DAB ESSENTIALS",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#ffe593",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
       }
     }
   },
