@@ -12,8 +12,15 @@
     "image_with_text_overlay_nVgm83": {
       "type": "image-with-text-overlay",
       "blocks": {
+        "liquid_GAqmhd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<p>★★★★★ | Rated 4.85 / 5.0 | 2,500+ Happy Dabbers</p>"
+          }
+        },
         "heading_hKxF8j": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Protect, Display & Organize",
             "heading_tag": "h4"
@@ -51,6 +58,7 @@
         }
       },
       "block_order": [
+        "liquid_GAqmhd",
         "heading_hKxF8j",
         "heading_8wC3BQ",
         "richtext_jPf9n3",
@@ -71,94 +79,117 @@
         "overlay_opacity": 50
       }
     },
-    "image-link-blocks": {
-      "type": "image-link-blocks",
+    "testimonials_zEYP9g": {
+      "type": "testimonials",
       "blocks": {
-        "1664424046b00c932c-0": {
-          "type": "item",
+        "testimonial_fgTPjQ": {
+          "type": "testimonial",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Tyler | ✓ Verified Customer",
+            "title": "",
+            "content": "<p>Couldn't ask for a more perfect organizer for my stuff. Looks like I'll be getting some of the other Dabdock products to go with this one! If you're even considering this at all, just stop and order it. Well worth it.</p>"
           }
         },
-        "1664424046b00c932c-1": {
-          "type": "item",
+        "testimonial_WHNyBg": {
+          "type": "testimonial",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Noah | ✓ Verified Customer",
+            "title": "",
+            "content": "<p>This thing is AWESOME!! Such a simple, yet innovative concept that keeps my dab tools and carb caps organized and easily accessible! Definitely seems to be better quality than I initially anticipated. Highly recommend!!</p>"
           }
         },
-        "1664424046b00c932c-2": {
-          "type": "item",
+        "testimonial_9Q7nyE": {
+          "type": "testimonial",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Julia | ✓ Verified Customer",
+            "title": "",
+            "content": "<p>Since it is custom, it took maybe two weeks to be made but once finished and shipped, got it in 2 days. I am very pleased with this. Great size, perfect “dab dock”. It even came with little rubber buttons so it won’t slip. Thank you very much!</p>"
           }
         },
-        "1664424046b00c932c-3": {
-          "type": "item",
+        "testimonial_fB4QTe": {
+          "type": "testimonial",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Brandi | ✓ Verified Customer",
+            "title": "",
+            "content": "<p>For someone who works in the industry, this dock is key for those who like to wax. A convenient one-spot area to keep all your tools in check. I was impressed with the delivery timing. Really great company.</p>"
           }
         },
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
-          "type": "item",
+        "testimonial_6gRbih": {
+          "type": "testimonial",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Ashley | ✓ Verified Customer",
+            "title": "",
+            "content": "<p>Very happy with the quality and that everything now has a place! Was exactly what was pictured and what I wanted</p>"
+          }
+        },
+        "testimonial_3eyFJQ": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "steall05 | ✓ Verified Customer",
+            "title": "",
+            "content": "<p>It was everything I expected and more! My husband loves it soo much! Thank you for the time you put into it and truly doing what you do! The best thing ever! I would order a million times over!</p>"
+          }
+        },
+        "testimonial_nLAxRP": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Evan | ✓ Verified Customer",
+            "title": "",
+            "content": "<p>Dope product. Helps keep me organized. A cluttered dab station is a cluttered mind.</p>"
           }
         }
       },
       "block_order": [
-        "1664424046b00c932c-0",
-        "1664424046b00c932c-1",
-        "1664424046b00c932c-2",
-        "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
+        "testimonial_fgTPjQ",
+        "testimonial_WHNyBg",
+        "testimonial_9Q7nyE",
+        "testimonial_fB4QTe",
+        "testimonial_6gRbih",
+        "testimonial_3eyFJQ",
+        "testimonial_nLAxRP"
       ],
+      "name": "Testimonials",
       "settings": {
-        "full_width": false,
-        "block_size": "medium",
-        "subheading": "",
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "Pssst..",
         "title": "",
-        "content": "",
+        "content": "<h2>DABBERS ARE LITERALLY OBSESSED</h2>",
         "link_url": "",
         "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": ""
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
       }
     },
     "scrolling-text": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "text": "Promotion text",
@@ -170,6 +201,84 @@
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
+      }
+    },
+    "image_link_blocks_Y7z63C": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_9tXVTD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/20250426_152731.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_3jm9Ta": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/20250426_152809.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_WzxX38": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/20250426_152821.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_EJGcaF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/20250521_043329.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_9tXVTD",
+        "item_3jm9Ta",
+        "item_WzxX38",
+        "item_EJGcaF"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "large",
+        "subheading": "",
+        "title": "PROTECT, DISPLAY AND ORGANIZE",
+        "content": "<p>Gone are the days of leaving your dabber on the edge of the table.</p><p>Its time to upgrade</p><p>Upgrading means <strong>NO MORE...</strong></p><p>❌ Dabbers falling on the floor</p><p>❌ Carb Caps rolling around</p><p>❌ Cotton Swabs... everywhere</p><p>❌ Messy setups that don't spark joy</p>",
+        "link_url": "shopify://collections/all",
+        "link_text": "",
+        "background": "#ffda64",
+        "background_gradient": "linear-gradient(0deg, rgba(255, 255, 255, 1) 37%, rgba(255, 218, 100, 1) 100%)",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "collection-list": {
@@ -767,8 +876,9 @@
   },
   "order": [
     "image_with_text_overlay_nVgm83",
-    "image-link-blocks",
+    "testimonials_zEYP9g",
     "scrolling-text",
+    "image_link_blocks_Y7z63C",
     "collection-list",
     "featured-collection",
     "impact-text",
