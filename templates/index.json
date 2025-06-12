@@ -260,7 +260,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#ffda64",
+        "background": "#ffe593",
         "background_gradient": "",
         "text_color": ""
       }
@@ -403,7 +403,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
-        "background": "#ffda64ff",
+        "background": "#ffe593",
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
@@ -529,7 +529,23 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
-        "background": "#ffda64ff",
+        "background": "#ffe593",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "scrolling_text_ynTGkL": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "LIFETIME DURABILITY | ORIGINAL DESIGN | HANDMADE IN THE USA | PROTECT, DISPLAY AND ORGANIZE YOUR DAB ESSENTIALS",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#ffe593",
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
@@ -629,6 +645,12 @@
             "background": "",
             "text_color": ""
           }
+        },
+        "text_EtVidT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>🔒 30-Day Money Back Gaurantee</p>"
+          }
         }
       },
       "block_order": [
@@ -644,7 +666,8 @@
         "quantity_selector_y69TdB",
         "buy_buttons_q87hkw",
         "pickup_availability_DdqMrK",
-        "button_NaLmwW"
+        "button_NaLmwW",
+        "text_EtVidT"
       ],
       "name": "Featured product",
       "settings": {
@@ -664,6 +687,298 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "comparison_table_CTXd4C": {
+      "type": "comparison-table",
+      "blocks": {
+        "headings_jq3MVt": {
+          "type": "headings",
+          "settings": {
+            "heading_1": "• Material",
+            "heading_2": "• Durability",
+            "heading_3": "• Additional Features",
+            "heading_4": "• Originality",
+            "heading_5": "",
+            "heading_6": "",
+            "heading_7": "",
+            "heading_8": "",
+            "heading_9": "",
+            "heading_10": "",
+            "heading_11": "",
+            "heading_12": "",
+            "heading_13": "",
+            "heading_14": "",
+            "heading_15": "",
+            "heading_16": "",
+            "heading_17": "",
+            "heading_18": "",
+            "heading_19": "",
+            "heading_20": ""
+          }
+        },
+        "values_gDqhwm": {
+          "type": "values",
+          "settings": {
+            "product": "dabdock-tray-premium-dab-station-organizer",
+            "value_1": "<p>✅<strong> </strong>Premium Build Quality, Made with high grade vapor-smoothed ASA Polymer</p>",
+            "value_2": "<p>✅<strong> </strong>UV & Heat Resistant, won't crack </p>",
+            "value_3": "<p>✅<strong> </strong>Hand-poured, hand-dyed silicone inserts & dab mats</p>",
+            "value_4": "<p>✅<strong> </strong>Original, Modern Design, CAD design and engineering by us</p>",
+            "value_5": "",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        },
+        "values_rYdVf4": {
+          "type": "values",
+          "settings": {
+            "product": "",
+            "value_1": "<p>❌ Inferior Quality Material, 3D Printed with cheap PLA, sharp edges</p>",
+            "value_2": "<p>❌ Warps in direct sunlight, brittle</p>",
+            "value_3": "<p>❌ Doesnt include silicone inserts</p>",
+            "value_4": "<p>❌ The same licensed 3D print design being sold by multiple people</p>",
+            "value_5": "",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        },
+        "values_j4h7Da": {
+          "type": "values",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "value_1": "<p>Value 1</p>",
+            "value_2": "<p>Value 2</p>",
+            "value_3": "<p>Value 3</p>",
+            "value_4": "",
+            "value_5": "",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "headings_jq3MVt",
+        "values_gDqhwm",
+        "values_rYdVf4",
+        "values_j4h7Da"
+      ],
+      "name": "Comparison table",
+      "settings": {
+        "full_width": true,
+        "subheading": "US VS \"THEM\"",
+        "title": "WHAT MAKES DABDOCK THE BETTER CHOICE?",
+        "content": "<p><em>Left: Dabdock, Right: \"Them\"</em></p>",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "max_rows": 5,
+        "view_all_text": "View all",
+        "view_less_text": "View less",
+        "view_product": "View",
+        "show_product_info": false,
+        "show_product_image": false,
+        "show_product_swatch": false,
+        "viewing_product": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "chart_background": "",
+        "chart_text_color": "",
+        "chart_true_false_color": ""
+      }
+    },
+    "testimonials_V8xYtK": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_DLmKY8": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Ashley | ✓ Verified Customer",
+            "title": "",
+            "content": "<p><br/>I bought for a friend and he loves everything about the item. Will purchase again!<br/><br/></p>"
+          }
+        },
+        "testimonial_GgfhgG": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Nicole | ✓ Verified Customer",
+            "title": "",
+            "content": "<p>I cannot say enough about this shop and products. Phenomenal customer service!! Followed up every step of the way, hand written note, seamless transaction 🤯 Will definitely do business with this shop in the near future.</p>"
+          }
+        },
+        "testimonial_8KPnLx": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Stephanie | ✓ Verified Customer",
+            "title": "",
+            "content": "<p>Great quality! Brandon’s customer service sets this shop apart from others I’ve purchased from. Seamless transaction, great quality product, and great customer service. What more could you ask for?<br/><br/></p>"
+          }
+        },
+        "testimonial_CgteUB": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Joshua | ✓ Verified Customer",
+            "title": "",
+            "content": "<p>Absolutely wonderful!! Very helpful and a great dock! This dude is amazing at what he does and very very helpful! Thank you! I'm so excited for it!</p>"
+          }
+        },
+        "testimonial_rchtHr": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Raphael | ✓ Verified Customer",
+            "title": "",
+            "content": "<p>Amazing quality! Highly recommend! Only sad that I did not get a dabdock sticker with it :( other than that great!</p>"
+          }
+        },
+        "testimonial_YihxUf": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Heather | ✓ Verified Customer",
+            "title": "",
+            "content": "<p>Most useful thing on my coffee table.<br/></p>"
+          }
+        },
+        "testimonial_fQMY4H": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Sarah | ✓ Verified Customer",
+            "title": "",
+            "content": "<p>It really checks a lot of the boxes. I like my space organized, this does a great job of that. It's a pretty rad product, aesthetically pleasing to look at & very useful. 10/10</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_DLmKY8",
+        "testimonial_GgfhgG",
+        "testimonial_8KPnLx",
+        "testimonial_CgteUB",
+        "testimonial_rchtHr",
+        "testimonial_YihxUf",
+        "testimonial_fQMY4H"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "DONT JUST TAKE OUR WORD FOR IT...",
+        "title": "",
+        "content": "<h2>THOUSANDS OF HAPPY DABBERS BACK US UP!</h2>",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "rich_text_3wt8YV": {
+      "type": "rich-text",
+      "blocks": {
+        "button_pHTnft": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "SHOP DABDOCK",
+            "url": "shopify://collections/all",
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "richtext_UFmdjw": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>🔒 30-Day Money Back Gaurantee</p>"
+          }
+        }
+      },
+      "block_order": [
+        "button_pHTnft",
+        "richtext_UFmdjw"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -676,6 +991,10 @@
     "text_with_icons_Qnwpiy",
     "rich_text_TGkMAJ",
     "scrolling_text_kUyhQy",
-    "featured_product_UPTiLC"
+    "featured_product_UPTiLC",
+    "comparison_table_CTXd4C",
+    "testimonials_V8xYtK",
+    "rich_text_3wt8YV",
+    "scrolling_text_ynTGkL"
   ]
 }
