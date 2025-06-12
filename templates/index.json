@@ -65,7 +65,6 @@
         "button_4aJpyz",
         "richtext_kYfa9V"
       ],
-      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -169,7 +168,6 @@
         "testimonial_3eyFJQ",
         "testimonial_nLAxRP"
       ],
-      "name": "Testimonials",
       "settings": {
         "full_width": true,
         "stack_testimonials": false,
@@ -255,7 +253,6 @@
         "button_JKmwby",
         "richtext_eakKc3"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "large",
@@ -383,7 +380,6 @@
         "button_N9X6my",
         "richtext_HxchhY"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -395,7 +391,6 @@
     },
     "scrolling_text_4cnPKY": {
       "type": "scrolling-text",
-      "name": "Scrolling text",
       "settings": {
         "full_width": true,
         "text": "THE MOST POPULAR DAB ORGANIZER SINCE 2020",
@@ -471,14 +466,13 @@
         "item_PY6hD8",
         "item_atxBUf"
       ],
-      "name": "Text with icons",
       "settings": {
         "full_width": true,
         "stack_on_mobile": true,
         "title": "",
         "heading_tag": "h2",
         "text_alignment": "center",
-        "icon_spacing": "small",
+        "icon_spacing": "medium",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -509,7 +503,6 @@
         "button_6Lm3dM",
         "richtext_MPteYP"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -521,7 +514,6 @@
     },
     "scrolling_text_kUyhQy": {
       "type": "scrolling-text",
-      "name": "Scrolling text",
       "settings": {
         "full_width": true,
         "text": "LIFETIME DURABILITY | ORIGINAL DESIGN | HANDMADE IN THE USA | PROTECT, DISPLAY AND ORGANIZE YOUR DAB ESSENTIALS",
@@ -653,7 +645,6 @@
         "button_NaLmwW",
         "text_EtVidT"
       ],
-      "name": "Featured product",
       "settings": {
         "full_width": true,
         "product": "dabdock-tray-premium-dab-station-organizer",
@@ -792,7 +783,6 @@
         "values_rYdVf4",
         "values_j4h7Da"
       ],
-      "name": "Comparison table",
       "settings": {
         "full_width": true,
         "subheading": "US VS \"THEM\"",
@@ -911,7 +901,6 @@
         "testimonial_YihxUf",
         "testimonial_fQMY4H"
       ],
-      "name": "Testimonials",
       "settings": {
         "full_width": true,
         "stack_testimonials": false,
@@ -954,7 +943,6 @@
         "button_pHTnft",
         "richtext_UFmdjw"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -966,7 +954,6 @@
     },
     "scrolling_text_ynTGkL": {
       "type": "scrolling-text",
-      "name": "Scrolling text",
       "settings": {
         "full_width": true,
         "text": "LIFETIME DURABILITY | ORIGINAL DESIGN | HANDMADE IN THE USA | PROTECT, DISPLAY AND ORGANIZE YOUR DAB ESSENTIALS",
