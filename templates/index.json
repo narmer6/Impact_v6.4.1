@@ -253,6 +253,9 @@
         "button_JKmwby",
         "richtext_eakKc3"
       ],
+      "custom_css": [
+        "img {border-radius: 12px;}"
+      ],
       "settings": {
         "full_width": true,
         "content_width": "large",
@@ -379,6 +382,9 @@
         "image_UcFFhm",
         "button_N9X6my",
         "richtext_HxchhY"
+      ],
+      "custom_css": [
+        "img {border-radius: 12px;}"
       ],
       "settings": {
         "full_width": true,
