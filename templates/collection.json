@@ -30,33 +30,13 @@
           "settings": {
             "content": "<p>Add two items to cart, get 50% off the second automatically.</p>"
           }
-        },
-        "button_VJ8AiR": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "lg",
-            "text": "SHOP DABDOCK",
-            "url": "shopify://collections/all",
-            "background": "",
-            "text_color": ""
-          }
-        },
-        "richtext_aV8zit": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>🔒 30-Day Money Back Gaurantee</p>"
-          }
         }
       },
       "block_order": [
         "liquid_7gq6aC",
         "heading_8ja7QW",
-        "richtext_MYgCPw",
-        "button_VJ8AiR",
-        "richtext_aV8zit"
+        "richtext_MYgCPw"
       ],
-      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
