@@ -14,6 +14,7 @@
       "blocks": {
         "liquid_GAqmhd": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<p>★★★★★ | Rated 4.85 / 5.0 | 2,500+ Happy Dabbers</p>"
           }
@@ -36,7 +37,7 @@
         "richtext_jPf9n3": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Add two items to cart, get 50% off the second automatically.</p>"
+            "content": "<p>Add two items to cart, get 50% off the second automatically (Bundles not included)</p>"
           }
         },
         "button_4aJpyz": {
