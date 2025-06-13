@@ -33,11 +33,11 @@
     "heading_font": "din_next_n7",
     "heading_font_size": "large",
     "heading_text_transform": "uppercase",
-    "heading_letter_spacing": -3,
+    "heading_letter_spacing": -2,
     "text_font": "din_next_n4",
     "text_font_size_mobile": 15,
     "text_font_size_desktop": 15,
-    "text_font_letter_spacing": -3,
+    "text_font_letter_spacing": -2,
     "currency_code_enabled": false,
     "heading_apparition": "split_fade",
     "show_secondary_image": false,
@@ -162,5 +162,8 @@
       "product_color_display": "swatch",
       "product_info_alignment": "center"
     }
+  },
+  "platform_customizations": {
+    "custom_css": []
   }
 }
