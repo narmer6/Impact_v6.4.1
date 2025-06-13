@@ -451,12 +451,12 @@
           "settings": {
             "icon": "picto-gift",
             "mobile_icon_width": 24,
-            "icon_width": 120,
+            "icon_width": 32,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
             "title": "THE PERFECT GIFT",
-            "content": "<p><strong>Fun Fact:</strong> About 30% of our customers order an extra Dabdock — because once you’ve got one, you <em>know</em> someone else who needs one too. <br/><br/></p>"
+            "content": "<p><strong>Fun Fact:</strong> About 30% of our customers order an extra Dabdock — because once you’ve got one, you <em>know</em> someone else who needs one too. </p>"
           }
         }
       },
