@@ -495,7 +495,7 @@
             "size": "xl",
             "text": "SHOP DABDOCK",
             "url": "shopify://collections/all",
-            "background": "",
+            "background": "#fe9900",
             "text_color": ""
           }
         },
