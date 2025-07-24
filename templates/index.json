@@ -47,7 +47,7 @@
             "size": "lg",
             "text": "SHOP DABDOCK",
             "url": "shopify://collections/all",
-            "background": "",
+            "background": "#29cc25",
             "text_color": ""
           }
         },
@@ -928,7 +928,7 @@
             "size": "xl",
             "text": "SHOP DABDOCK",
             "url": "shopify://collections/all",
-            "background": "",
+            "background": "#fe9900",
             "text_color": ""
           }
         },
