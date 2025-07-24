@@ -645,7 +645,11 @@
         "button_NaLmwW",
         "text_EtVidT"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "sale-price.text-on-sale {font-weight: 600; font-size: 1.1rem;}",
+        "sale-price.text-subdued {font-weight: 600; font-size: 1.1rem;}",
+        "compare-at-price.text-subdued.line-through {font-weight: 600; font-size: 0.9rem;}"
+      ],
       "settings": {
         "full_width": true,
         "product": "dabdock-tray-premium-dab-station-organizer",
