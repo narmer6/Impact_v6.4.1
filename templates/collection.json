@@ -74,7 +74,11 @@
     },
     "main": {
       "type": "main-collection",
-      "custom_css": [],
+      "custom_css": [
+        "sale-price.text-on-sale {font-weight: 600; font-size: 1.1rem;}",
+        "sale-price.text-subdued {font-weight: 600; font-size: 1.1rem;}",
+        "compare-at-price.text-subdued.line-through {font-weight: 600; font-size: 0.9rem;}"
+      ],
       "settings": {
         "products_per_page": 24,
         "products_per_row_mobile": "2",
