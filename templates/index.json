@@ -261,9 +261,9 @@
         "full_width": true,
         "content_width": "large",
         "text_position": "center",
-        "background": "#ffe593",
+        "background": "#3c5e29",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#ffffff"
       }
     },
     "rich_text_nHNhGW": {
