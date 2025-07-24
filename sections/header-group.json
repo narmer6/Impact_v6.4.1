@@ -33,8 +33,8 @@
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#1a1a1a",
-        "background_gradient": "linear-gradient(182deg, rgba(255, 243, 206, 1), rgba(255, 218, 100, 1) 98%)",
-        "text_color": "#1a1a1a"
+        "background_gradient": "linear-gradient(182deg, rgba(35, 174, 33, 1), rgba(14, 91, 11, 1) 98%)",
+        "text_color": "#ffffff"
       }
     },
     "header": {
