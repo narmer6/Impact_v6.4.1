@@ -95,7 +95,11 @@
         "quantity_selector",
         "buy_buttons"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "sale-price.text-on-sale {font-weight: 600; font-size: 1.2rem;}",
+        "sale-price.text-subdued {font-weight: 600; font-size: 1.2rem;}",
+        "compare-at-price.text-subdued.line-through {font-weight: 600; font-size: 0.9rem;}"
+      ],
       "settings": {
         "full_width": true,
         "show_fixed_add_to_cart": true,
