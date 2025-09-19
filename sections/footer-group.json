@@ -24,14 +24,6 @@
             "content": ""
           }
         },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": false,
-            "menu_title": ""
-          }
-        },
         "links_w8CWLe": {
           "type": "links",
           "settings": {
@@ -39,12 +31,20 @@
             "show_menu_title": true,
             "menu_title": ""
           }
+        },
+        "links_Rh4jQd": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
         }
       },
       "block_order": [
         "newsletter",
-        "links",
-        "links_w8CWLe"
+        "links_w8CWLe",
+        "links_Rh4jQd"
       ],
       "settings": {
         "show_social_media": false,
