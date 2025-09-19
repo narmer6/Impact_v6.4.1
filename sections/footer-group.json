@@ -27,8 +27,8 @@
         "links": {
           "type": "links",
           "settings": {
-            "menu": "main-menu",
-            "show_menu_title": true,
+            "menu": "footer",
+            "show_menu_title": false,
             "menu_title": ""
           }
         }
