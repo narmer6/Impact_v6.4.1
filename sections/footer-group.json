@@ -31,11 +31,20 @@
             "show_menu_title": false,
             "menu_title": ""
           }
+        },
+        "links_w8CWLe": {
+          "type": "links",
+          "settings": {
+            "menu": "shop",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
         }
       },
       "block_order": [
         "newsletter",
-        "links"
+        "links",
+        "links_w8CWLe"
       ],
       "settings": {
         "show_social_media": false,
