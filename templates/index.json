@@ -614,7 +614,7 @@
         "button_NaLmwW": {
           "type": "button",
           "settings": {
-            "link": "shopify://products/dabdock-tray-premium-dab-station-organizer",
+            "link": "shopify://products/dabdock",
             "text": "SHOP DABDOCK",
             "size": "xl",
             "style": "fill",
@@ -652,7 +652,7 @@
       ],
       "settings": {
         "full_width": true,
-        "product": "dabdock-tray-premium-dab-station-organizer",
+        "product": "dabdock",
         "desktop_media_width": 55,
         "desktop_media_layout": "grid_highlight",
         "mobile_media_size": "contained",
@@ -699,7 +699,7 @@
         "values_gDqhwm": {
           "type": "values",
           "settings": {
-            "product": "dabdock-tray-premium-dab-station-organizer",
+            "product": "dabdock",
             "value_1": "<p>✅<strong> </strong>Premium Build Quality, Made with high grade vapor-smoothed ASA Polymer</p>",
             "value_2": "<p>✅<strong> </strong>UV & Heat Resistant, won't crack </p>",
             "value_3": "<p>✅<strong> </strong>Hand-poured, hand-dyed silicone inserts & dab mats</p>",
